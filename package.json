@@ -1,0 +1,23 @@
+{
+  "name": "emxn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emxn",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "common-tags": "^1.8.2",
+    "discord.js": "^12.5.3",
+    "express": "^4.18.0",
+    "g": "^2.0.1",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "npm": "^8.8.0",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2"
+  }
+}
